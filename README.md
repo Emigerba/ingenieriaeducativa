@@ -1,2 +1,0 @@
-# ingenieriaeducativa
-eeeeeeeeeeeeeeeeeeeeee
