@@ -1,7 +1,0 @@
-<html>
-<head>
-  <Tittle> Hola Mundo </tittle>
-  <Tittle> INGENIERÍA EDUCATIVA </tittle>
-</head>
-<body>
-<h1> Se viene un proyecto</h1>
